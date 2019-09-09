@@ -1,0 +1,3 @@
+﻿  diffcolor.cpp
+c:\users\sarthak\desktop\sarthak\diffcolor\diffcolor.cpp(50): warning C4101: 'str': unreferenced local variable
+  diffcolor.vcxproj -> C:\Users\Sarthak\Desktop\Sarthak\diffcolor\x64\Debug\diffcolor.exe
